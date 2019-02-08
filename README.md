@@ -5,4 +5,4 @@
 ## [第四章 返回结果的HTTP状态码](https://github.com/zhangyanan0525/learn-HTTP-note/issues/4)
 ## [第五章 与HTTP协作的Web服务器](https://github.com/zhangyanan0525/learn-HTTP-note/issues/5)
 ## [第六章 HTTP首部](https://github.com/zhangyanan0525/learn-HTTP-note/issues/6)
-## [第六章 HTTP首部](https://github.com/zhangyanan0525/learn-HTTP-note/issues/7)
+## [第七章 确保Web安全的HTTPS](https://github.com/zhangyanan0525/learn-HTTP-note/issues/7)
